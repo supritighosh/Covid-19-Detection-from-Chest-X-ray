@@ -1,1 +1,1 @@
-# COVID-19_Detection_from_Chest_X-ray
+Please download the dataset from [here](https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia)
