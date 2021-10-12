@@ -1,17 +1,10 @@
 ## Dataset
 
-I have collected the dataset from [here](https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia).
+The dataset is collected from the following sources:
 
-#### Dataset Resources
-
-The Dataset is collected from the following resources: <br>
-[1] Covid Chest X-ray Dataset [here](https://github.com/ieee8023/covid-chestxray-dataset) <br>
-[2] Chest X-ray Images [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)<br>
-[3] Covid-19 Dataset [here](https://github.com/agchung)
-
-
-#### Description of the Dataset
-
-The dataset is organized into 2 folders (train, test) and both train and test contain 3 subfolders (COVID19, PNEUMONIA, NORMAL). DataSet contains total 6432 x-ray images and test data have 20% of total images. 
-
-
+[1] Healthy dataset: It contains 1,583 CXR images. Dataset is available [here](https://data.mendeley.com/datasets/rscbjbr9sj/2).
+[2] Pneumonia dataset: It is composed of 4,273 CXR images. Dataset is available [here](https://data.mendeley.com/datasets/rscbjbr9sj/2) 
+[3] Covid-19 dataset: Covid-19 dataset contains 2,358 of CXR images and it is formed using the following publicly available sources.
+		(I) https://github.com/agchung/Figure1-COVID-chestxray-dataset
+		(II) https://github.com/agchung/Actualmed-COVID-chestxray-dataset
+		(III) https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
